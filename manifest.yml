@@ -5,6 +5,6 @@ applications:
   name: JavaMicroservicewithSpringZRCWI
   buildpack: java_buildpack
   path: ./target/JavaMicroservicewithSpringZRCWI-1.0-SNAPSHOT.jar
-  memory: 1024M
+  memory: 128M
   domain: mybluemix.net
   host: java-microservice-with-spring-zrcwi
